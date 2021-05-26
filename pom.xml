@@ -205,7 +205,7 @@
       </dependency>
     </dependencies>
   </dependencyManagement>
-         
+  
   <build>
     <plugins>
         <plugin>
@@ -217,7 +217,9 @@
             </configuration>
         </plugin>
     </plugins>
-</build>
+   </build>
+         
+  
 
   <scm>
     <connection>scm:git:git@github.com:jleetutorial/maven-project.git</connection>
